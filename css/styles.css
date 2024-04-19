@@ -1,0 +1,103 @@
+/*****************************************************************************/
+/*-----------------------css for body section-------------------------------*/
+/***************************************************************************/
+body{
+  background-image: url(../images/mountainFog.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/*****************************************************************************/
+/*---------------------css for title section--------------------------------*/
+/***************************************************************************/
+
+#title{
+  text-align: center;
+  padding: 0;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+.titleInfo{
+
+}
+
+.extraInfo{
+  padding: 8% 20%;
+}
+.navbar{
+  margin-bottom: 3rem;
+}
+
+/*****************************************************************************/
+/*---------------------css for moreStuff section----------------------------*/
+/***************************************************************************/
+
+#moreStuff{
+  text-align: center;
+  padding: 0;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.icons{
+  margin-bottom: 2.5rem;
+}
+
+.icons:hover{
+  color: grey;
+  font-size: 180px;
+  transition: 0.3s;
+}
+#moreStuff p{
+  color: black;
+}
+#moreStuff a{
+  color: inherit;
+}
+/*****************************************************************************/
+/*---------------------css for basic carasol section------------------------*/
+/***************************************************************************/
+
+#basic-info{
+  text-align: center;
+  padding: 0;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.carousel-item{
+
+  padding: 8% 13%;
+  font-size: 1.5rem;
+}
+
+.carabutton{
+  filter: invert(100%);
+}
+
+/*****************************************************************************/
+/*---------------------css for basic myProjects section---------------------*/
+/***************************************************************************/
+
+
+#myProjects{
+  text-align: center;
+  padding: 0;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: black;
+  text-shadow: -1px -1px 0 white, 1px -1px 0 grey, -1px 1px 0 white, 1px 1px 0 white;
+}
+
+#unrealEngine{
+  text-align: center;
+  padding: 0;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: black;
+  text-shadow: -1px -1px 0 white, 1px -1px 0 grey, -1px 1px 0 white, 1px 1px 0 white;
+}
+#unrealEngine h2{
+  color: black;
+  text-shadow: -1px -1px 0 white, 1px -1px 0 grey, -1px 1px 0 white, 1px 1px 0 white;
+}
+}
+
+/*****************************************************************************/
+/*---------------------css for basic qual section---------------------------*/
+/***************************************************************************/
